@@ -1,0 +1,58 @@
+[
+  {
+    "subject": "physics",
+    "question": "SI unit of force kya hai?",
+    "options": ["Joule", "Newton", "Watt", "Pascal"],
+    "answer": 1,
+    "explanation": "F = ma, unit kg·m/s² = Newton."
+  },
+  {
+    "subject": "physics",
+    "question": "Prithvi ki surface par g ka approx value?",
+    "options": ["9.8 m/s²", "98 m/s²", "0.98 m/s²", "19.6 m/s²"],
+    "answer": 0,
+    "explanation": "g ≈ 9.8 m/s²."
+  },
+  {
+    "subject": "chemistry",
+    "question": "Carbon ka atomic number kya hai?",
+    "options": ["4", "6", "8", "12"],
+    "answer": 1,
+    "explanation": "Carbon me 6 protons hote hain."
+  },
+  {
+    "subject": "chemistry",
+    "question": "Water ka pH 25°C par kitna hota hai?",
+    "options": ["0", "5", "7", "14"],
+    "answer": 2,
+    "explanation": "Pure water neutral hai, pH = 7."
+  },
+  {
+    "subject": "maths",
+    "question": "d/dx (sin x) = ?",
+    "options": ["-cos x", "cos x", "-sin x", "tan x"],
+    "answer": 1,
+    "explanation": "Sin x ka derivative cos x hota hai."
+  },
+  {
+    "subject": "maths",
+    "question": "x² - 5x + 6 = 0 ke roots kya hain?",
+    "options": ["1, 6", "2, 3", "-2, -3", "-1, 6"],
+    "answer": 1,
+    "explanation": "(x-2)(x-3) = 0."
+  },
+  {
+    "subject": "biology",
+    "question": "Cell ka powerhouse kise kehte hain?",
+    "options": ["Ribosome", "Golgi body", "Mitochondria", "Lysosome"],
+    "answer": 2,
+    "explanation": "Mitochondria me ATP banta hai."
+  },
+  {
+    "subject": "biology",
+    "question": "Photosynthesis cell ke kis organelle me hota hai?",
+    "options": ["Chloroplast", "Nucleus", "Vacuole", "Mitochondria"],
+    "answer": 0,
+    "explanation": "Chloroplast me chlorophyll hota hai."
+  }
+]
